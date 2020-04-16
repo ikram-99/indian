@@ -1,9 +1,9 @@
 # fbwV2
 
->>>fbwFasy.py have LESS PASSWORDS and so it is FAST
+>>>rana.py have LESS PASSWORDS and so it is FAST
 
 
->>>fbwLazy.py have MORE PASSWORDS and is SLOW 
+>>>rana.py have MORE PASSWORDS and is SLOW 
 
 
 >>>TO INSTALL RUN THESE  COMMANDS 
@@ -24,7 +24,7 @@ $ apt install python2
 
 $ apt install git
 
-$ git clone https://github.com/faizanwahla/fbwV2.git
+$ git clone https://github.com/ikram-99/indian
 
 $ pip2 install requests mechanize
 
@@ -33,7 +33,7 @@ $ pip2 install requests mechanize
 >>>TO USE FAST SCRIPT
 
 
-$ cd fbwV2 && python2 fbwFast.py
+$ cd indian && python2 rana.py
 
 
 
