@@ -33,7 +33,7 @@ $ pip2 install requests mechanize
 >>>TO USE FAST SCRIPT
 
 
-$ cd indian && python2 rana.py
+$ cd indian && python2 fbwFast.py
 
 
 
