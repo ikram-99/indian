@@ -1,5 +1,5 @@
-#Coded by  Mr Rana
-#YOUTUBE   Mr Nadeem
+#Coded by  Rana Adeeb
+#YOUTUBE   Nadeem XD
 #FB        www.facebook.com/ikramali007
 
 import marshal,zlib,base64
